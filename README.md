@@ -3,10 +3,9 @@
 ### 💫 About Me
 I'm a passionate developer dedicated to building impactful digital solutions. I thrive on solving complex problems, writing clean code, and continuously learning new technologies.
 
-- 🔭 I’m currently working on **[Project Name or Tech Stack]**
-- 🌱 I’m currently learning **[A new language, framework, or cloud tool]**
-- 💬 Ask me about **[Topics you love discussing, e.g., System Architecture, Backend, UI/UX]**
-- ⚡ Fun fact: **[Insert a quirky or interesting non-tech fact here]**
+- 🔭 I’m currently working on **[Python Automation]**
+- 🌱 I’m currently learning **[Advance Python]**
+
 
 ---
 
@@ -46,16 +45,12 @@ Here is a quick look at my open-source contributions and development activity:
 Feel free to reach out if you want to collaborate on a project, talk about technology, or just say hello!
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/aayush-pandey-867350407/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  
+  <a href="mailto:aayushpandey606@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
+  
 </p>
