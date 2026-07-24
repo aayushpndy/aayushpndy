@@ -34,8 +34,8 @@ I'm a passionate developer dedicated to building impactful digital solutions. I 
 Here is a quick look at my open-source contributions and development activity:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushpndy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushpndy&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 ---
