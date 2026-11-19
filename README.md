@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Aayush Pandey!
-# My portfolio website: aayushpandey606.com.np
+ My portfolio website: 
+ <p align="left">
+  <a href="https://aayushpandey606.com.np/" target="_blank"></a></p>
 
 ### 💫 About Me
 I'm a passionate developer dedicated to building impactful digital solutions. I thrive on solving complex problems, writing clean code, and continuously learning new technologies.
